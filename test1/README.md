@@ -91,4 +91,4 @@ fork
 stop
 @enduml
 业务流程如下：
-![flow2](flow1.pgn)
+![flow2](flow2.png)
