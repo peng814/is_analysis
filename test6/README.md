@@ -9,7 +9,7 @@
 - 老师的功能主要有：一是批改每个学生的成绩，二是查看每个学生的成绩。
 - 老师和学生都能通过本系统的链接方便地跳转到学生的每个GitHUB实验目录，以便批改实验或者查看实验情况。
 - 实验成绩按数字分数计算，每项实验有5个评分标准，满分为100分，最低为0分。
-- 系统自动计算每个学生的所有实验的平均分。
+- 系统自动计算每个学生的所有实验的平均分，为最终得分。
 
 ## 2. 系统总体结构
 ![](实验管理平台1.png)
@@ -34,6 +34,6 @@
 - ### [“查看用户信息”用例](./用例/查看用户信息.md),[界面](../test6/ui/顶部菜单.html)
 - ### [“登出”用例](./用例/登出.md),[界面](https://peng814.github.io/is_analysis/test6/ui/顶部菜单.html)
 - ### [“登录”用例](./用例/登录.md),[界面](https://peng814.github.io/is_analysis/test6/ui/登录.html)
-- ### [“实验信息”用例](./用例/实验信息1.md),[界面](https://peng814.github.io/is_analysis/test6/ui/实验信息.html)
-- ### [“课程信息”用例](./用例/课程信息1.md),[界面](https://peng814.github.io/is_analysis/test6/ui/课程信息.html)
-- ### [“发布实验”用例](./用例/发布实验1.md),[界面](https://peng814.github.io/is_analysis/test6/ui/发布实验.html)
+- ### [“实验信息”用例](./用例/实验信息1.md),[界面](https://peng814.github.io/is_analysis/test6/ui/实验信息1.html)
+- ### [“课程信息”用例](./用例/课程信息1.md),[界面](https://peng814.github.io/is_analysis/test6/ui/课程信息1.html)
+- ### [“发布实验”用例](./用例/发布实验1.md),[界面](https://peng814.github.io/is_analysis/test6/ui/发布实验1.html)
