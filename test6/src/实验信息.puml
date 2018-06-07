@@ -1,0 +1,8 @@
+@startuml
+actor students
+
+students -> courses:选择课程
+courses -> tests:查看实验
+tests --> students:该学生的课程的实验的信息
+
+@enduml

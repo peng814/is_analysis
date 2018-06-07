@@ -1,0 +1,7 @@
+@startuml
+actor students
+
+students -> courses:
+courses --> students:该学生的本学期课程信息
+
+@enduml
